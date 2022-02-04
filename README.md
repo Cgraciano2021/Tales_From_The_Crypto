@@ -75,7 +75,3 @@ In this section, you will build a named entity recognition model for both coins 
 ![eth-ner.png](Images/eth-ner.png)
 
 
-
-### Resources
-
-[
